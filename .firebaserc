@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "worktaskfire": {
+      "hosting": {
+        "worktask-fire": [
+          "worktaskfire"
+        ]
+      }
+    }
+  }
+}
